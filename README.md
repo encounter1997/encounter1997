@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 | <a href="https://github.com/encounter1997"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=encounter1997&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Wen Wang's github stats" /></a> | <a href="https://github.com/encounter1997"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=encounter1997&theme=buefy&hide_border=true&layout=compact&hide=java,CSS&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
 | ------------- | ------------- |
+-->
 
 <br />
