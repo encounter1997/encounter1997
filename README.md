@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🌱 My research fields include computer vision and generative models.
 - 📫 How to reach me: wwenxyz (at) zju.edu.cn
 
-[[Google Scholar]](https://scholar.google.com/citations?user=1ks0R04AAAAJ)  
-[[Homepage]](https://encounter1997.github.io/)
+[[Google Scholar]](https://scholar.google.com/citations?user=1ks0R04AAAAJ)    [[Homepage]](https://encounter1997.github.io/)
 
 <!--
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=baaivision&repo=Painter&theme=default)](https://github.com/baaivision/Painter)
