@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hi there! My name is Wen Wang (王文),
 
-- 🔭 I’m currently a Ph.D. student advised by Prof. [Chunhua Shen](https://cshen.github.io/) at [Zhejiang University](https://www.zju.edu.cn/english/). Now I am a research intern at the vision group of the Interactive Intelligence Lab at [Ant Group](https://www.antgroup.com/en), led by [Yujun Shen](https://shenyujun.github.io/).
+- 🔭 I obtained my Ph.D. degree from [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Prof. [Chunhua Shen](https://cshen.github.io/) 
 - 🌱 My research fields include computer vision and generative models.
 - 📫 How to reach me: wwenxyz (at) zju.edu.cn
 
